@@ -1,9 +1,14 @@
+<!-- ============================================================ -->
+<!-- BANNER PLACEHOLDER - add your banner here, e.g.:            -->
+<!-- <p align="center"><img src="banner.png" alt="Caustic" width="100%"></p> -->
+<!-- ============================================================ -->
+
 # Anthony Sforzin
 
 Offensive security and vulnerability research — from application-level code to the
 kernel — with coordinated disclosure, reverse engineering, and fuzzing.
 
-Software Engineering @ FIAP (São Paulo) · Teaching assistant (Monitor) @ FIAP
+Software Engineering student & IT Support Intern @ FIAP (São Paulo)
 
 I run **[Caustic](https://github.com/causticsec)** — an independent security research
 lab. Vulnerability research and coordinated disclosure, from application code to kernel
@@ -22,7 +27,6 @@ and firmware.
 
 - CRTA — Certified Red Team Analyst (CyberWarFare Labs)
 - NPP — Novo Pentest Profissional (Desec Security)
-- FIAP NEXT 2025 — 1st place · FIAP Monitoria Hackathon — 1st place
 
 ### Elsewhere
 
