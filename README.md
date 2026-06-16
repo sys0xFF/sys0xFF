@@ -1,7 +1,6 @@
-<!-- ============================================================ -->
-<!-- BANNER PLACEHOLDER - add your banner here, e.g.:            -->
-<!-- <p align="center"><img src="banner.png" alt="Caustic" width="100%"></p> -->
-<!-- ============================================================ -->
+<p align="center">
+  <img src="banner.png" alt="banner" width="100%">
+</p>
 
 # Anthony Sforzin
 
