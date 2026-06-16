@@ -1,13 +1,13 @@
 # Anthony Sforzin
 
-Offensive security researcher — kernel & driver vulnerability research, reverse
-engineering, fuzzing, and coordinated disclosure.
+Offensive security and vulnerability research — from application-level code to the
+kernel — with coordinated disclosure, reverse engineering, and fuzzing.
 
 Software Engineering @ FIAP (São Paulo) · Teaching assistant (Monitor) @ FIAP
 
 I run **[Caustic](https://github.com/causticsec)** — an independent security research
-lab focused on vulnerability research and coordinated disclosure across OSS,
-drivers/kernel, and firmware.
+lab. Vulnerability research and coordinated disclosure, from application code to kernel
+and firmware.
 
 ### Selected work
 
