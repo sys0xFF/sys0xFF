@@ -12,16 +12,15 @@ São Paulo, Brasil · Engenharia de Software @ FIAP
 
 ## Trabalho
 
-- Desenvolvimento full-stack e backend: Java, TypeScript/Node, Python, C++.
+- Desenvolvimento full-stack e backend: Java, TypeScript, Python, C++.
 - Pesquisa de vulnerabilidade, engenharia reversa e pentest.
-- Fundador da [Caustic](https://github.com/causticsec) — laboratório independente de pesquisa com disclosure coordenado.
 
 ## Destaques
 
 - **[CVE-2025-61155](https://www.cve.org/CVERecord?id=CVE-2025-61155)** — pesquisador co-creditado (com Gabriel Maciel Ramos e Gabriel Gomes). Falha de controle de acesso em driver de kernel assinado no Windows (`GameDriverX64.sys`): um IOCTL sem privilégio alcança `ZwTerminateProcess` em contexto de kernel, permitindo encerrar processos arbitrários, inclusive serviços de segurança protegidos (classe BYOVD / EDR-killer). CWE-400 · CVSS 5.5.
 <!-- Impacto real (opcional): posteriormente explorada no mundo real e documentada pela FortiGuard Labs. -->
 - **[pagewright](https://github.com/sys0xFF/pagewright)** — skill para o Claude Code que gera landing pages a partir de um brief de uma linha. Python.
-- **[Caustic](https://github.com/causticsec)** — [política de disclosure](https://github.com/causticsec/.github/blob/main/VULNERABILITY_DISCLOSURE_POLICY.md) de 90 dias, contato PGP, advisories públicos.
+- **[Caustic](https://github.com/causticsec)** — projeto pessoal de pesquisa de segurança: [política de disclosure](https://github.com/causticsec/.github/blob/main/VULNERABILITY_DISCLOSURE_POLICY.md) de 90 dias, contato PGP, advisories públicos.
 
 ## Certificações
 
@@ -30,7 +29,7 @@ São Paulo, Brasil · Engenharia de Software @ FIAP
 
 ## Stack
 
-Java · TypeScript · Node · Python · C++ · Linux
+Java · TypeScript · Python · C++
 
 ## Contato
 
