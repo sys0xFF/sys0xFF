@@ -4,30 +4,35 @@
 
 # Anthony Sforzin
 
-Offensive security and vulnerability research — from application-level code to the
-kernel — with coordinated disclosure, reverse engineering, and fuzzing.
+Engenheiro de software e pesquisador de segurança ofensiva. Desenvolvimento
+full-stack e pesquisa de vulnerabilidade com disclosure coordenado, do código
+de aplicação ao kernel.
 
-Software Engineering student & IT Support Intern @ FIAP (São Paulo)
+São Paulo, Brasil · Engenharia de Software @ FIAP
 
-I run **[Caustic](https://github.com/causticsec)** — an independent security research
-lab. Vulnerability research and coordinated disclosure, from application code to kernel
-and firmware.
+## Trabalho
 
-### Selected work
+- Desenvolvimento full-stack e backend: Java, TypeScript, Python, C++.
+- Pesquisa de vulnerabilidade, engenharia reversa e pentest.
 
-- **CVE-2025-61155** — co-credited researcher (with Gabriel Maciel Ramos and Gabriel
-  Gomes). Access-control flaw in a signed Windows kernel-mode driver (Hotta Studio,
-  `GameDriverX64.sys`): an unprivileged IOCTL reaches `ZwTerminateProcess` in kernel
-  context, allowing termination of arbitrary processes including protected security
-  services (BYOVD / EDR-killer class). NVD: CWE-400 / CVSS 5.5. Subsequently weaponized
-  in the wild by Interlock ransomware and documented by FortiGuard Labs and CyberPress.
+## Destaques
 
-### Credentials
+- **[CVE-2025-61155](https://www.cve.org/CVERecord?id=CVE-2025-61155)** — pesquisador co-creditado (com Gabriel Maciel Ramos e Gabriel Gomes). Falha de controle de acesso em driver de kernel assinado no Windows (`GameDriverX64.sys`): um IOCTL sem privilégio alcança `ZwTerminateProcess` em contexto de kernel, permitindo encerrar processos arbitrários, inclusive serviços de segurança protegidos (classe BYOVD / EDR-killer). CWE-400 · CVSS 5.5.
+<!-- Impacto real (opcional): posteriormente explorada no mundo real e documentada pela FortiGuard Labs. -->
+- **[pagewright](https://github.com/sys0xFF/pagewright)** — skill para o Claude Code que gera landing pages a partir de um brief de uma linha. Python.
+- **[Caustic](https://github.com/causticsec)** — projeto pessoal de pesquisa de segurança: [política de disclosure](https://github.com/causticsec/.github/blob/main/VULNERABILITY_DISCLOSURE_POLICY.md) de 90 dias, contato PGP, advisories públicos.
+
+## Certificações
 
 - CRTA — Certified Red Team Analyst (CyberWarFare Labs)
 - NPP — Novo Pentest Profissional (Desec Security)
 
-### Elsewhere
+## Stack
 
-- Caustic — https://github.com/causticsec
-- LinkedIn — https://www.linkedin.com/in/anthony-sforzin/
+Java · TypeScript · Python · C++
+
+## Contato
+
+- [sforzin.dev](https://sforzin.dev)
+- [linkedin.com/in/anthony-sforzin](https://www.linkedin.com/in/anthony-sforzin/)
+- [github.com/causticsec](https://github.com/causticsec) · security@caustic.sh
